@@ -7,10 +7,3 @@
 
 * [x] Font Awesome for icons [https://fontawesome.com/]
 
-### Checkout the OLD Version here [https://clone-site.surge.sh/]
-
-### Now working on the responsive ness of the site.
-
-### Completed Learning Responsive Css.
-
-### Checkout the Final Versoin here [https://toggle-site.surge.sh/]
